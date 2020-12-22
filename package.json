@@ -1,0 +1,8 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "Uma prova",
+  "main": "index.js",
+  "author": "adrianocruzweb <adrianocruzweb@hotmail.com>",
+  "license": "MIT"
+}
